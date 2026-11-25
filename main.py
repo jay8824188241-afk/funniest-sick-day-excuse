@@ -9,7 +9,7 @@ read-back comparison against the embedded copy.
 import pathlib
 import sys
 
-ENTRY = "I pulled a muscle reaching for the snooze button, and my doctor says the only cure is a full day of not reaching for anything."
+ENTRY = "I pulled a muscle reaching for the snooze button, and my doctor has banned me from reaching for anything today — laptop included."
 
 
 def self_check(entry: str) -> None:
